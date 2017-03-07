@@ -1,2 +1,3 @@
-# coursera-dna-seq
-Code for Coursera course on DNA sequencing
+# Coursera
+
+Code for various Coursera courses.
